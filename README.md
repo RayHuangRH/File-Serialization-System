@@ -3,7 +3,7 @@ C code used to serialze and deserialize a directory of files.
 
 This code was written for CSE-320 at Stony Brook University. All code here is property of Stony Brook University and myself and is not to be copied/redistributed without consent.
 
-ACADEMIC HONESTY STATEMENT
+**ACADEMIC HONESTY STATEMENT**
 
 I certify the following:
 
